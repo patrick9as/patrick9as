@@ -24,10 +24,15 @@
 - Microsoft SQL Server
 - Postgresql
 
+# ORM & Querybuilders
+- Prisma
+- KnexJS
+
 # API RESTful
 - Horse
 - SpringBoot
 - ExpressJS
+- Fastify
 
 # Devops
 - Docker
@@ -41,3 +46,6 @@
 - ReactJS with Vite
 - ReactNative with Expo
 - ElectronJS
+
+# Frameworks
+- NestJS
